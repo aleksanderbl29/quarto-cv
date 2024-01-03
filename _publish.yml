@@ -1,3 +1,4 @@
+---
 - source: project
   quarto-pub:
     - id: 35aa97b9-af0a-4575-a51c-1b29f7339775
