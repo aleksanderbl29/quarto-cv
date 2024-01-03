@@ -5,10 +5,7 @@ project:
     port: 7777
 
 website:
-  title: "Curriculum Vitae"
-  navbar:
-    left:
-      - href: index.qmd
+  title: "Aleksander Bang-Larsens CV"
 
 format:
   html:
