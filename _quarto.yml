@@ -5,7 +5,17 @@ project:
     port: 7777
 
 website:
-  title: "Aleksander Bang-Larsens CV"
+  # title: "Aleksander Bang-Larsens CV"
+  title: ""
+  navbar:
+    # search: true
+    tools:
+      - icon: github
+        url: https://github.com/aleksanderbl29
+  page-footer:
+    center: "Aleksander Bang-Larsen, 2024"
+    border: true
+
 
 format:
   html:
